@@ -1,7 +1,9 @@
 SEO
 ===
 
-SEO memo
+# SEO Memos
+* Origine : http://www.growthhacking-france.com/les-200-facteurs-de-referencement-google-en-2014/
+* Updated : 2014/05/30
 
 1. <h3>L&rsquo;âge du nom de domaine</h3>
 Comme le dit Matt Cutts <a href="http://www.youtube.com/watch?v=-pnpg00FWJY&amp;feature=player_embedded" target="_blank" rel="nofollow">dans cette vidéo</a>,
