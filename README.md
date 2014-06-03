@@ -1,4 +1,4 @@
 SEO
 ===
 
-[Memos](Memos.md "")
+* [Memos](Memos.md "")
